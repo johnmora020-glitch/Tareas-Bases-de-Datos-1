@@ -1,5 +1,5 @@
 <h1 align="center">Hola Primer proyecto Clase1 2026</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Apasionado por crecer profesionalmente</h3>
 
 - Viteck Academy **Bases de Datos SQL**
 
